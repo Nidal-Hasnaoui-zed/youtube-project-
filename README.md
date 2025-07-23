@@ -42,7 +42,6 @@ A clean, responsive YouTube-inspired video platform built with **HTML**, **CSS**
 ### 🌙 Dark Mode  
 ![Dark Mode](assets/darkmode.png)
 
-> *These screenshots show the UI built using frontend code only.*
 
 ---
 
